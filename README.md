@@ -1,38 +1,47 @@
-Exercism Java Backup
+# Exercism Java Backup  
 
-Repositório destinado ao armazenamento e versionamento das soluções desenvolvidas na plataforma Exercism
-.
-O objetivo é consolidar a prática de lógica de programação, aprimorar o domínio da linguagem Java e reforçar princípios de engenharia de software aplicados a cenários reais de desenvolvimento.
+Repositório dedicado ao armazenamento e versionamento das soluções desenvolvidas na plataforma  
+[Exercism](https://exercism.org/).  
 
-Estrutura do Repositório
+O propósito deste projeto é consolidar a prática de **lógica de programação**, fortalecer o domínio da  
+linguagem **Java** e aplicar **boas práticas de engenharia de software** em desafios de diferentes níveis  
+de complexidade.  
 
-/java/ – Exercícios resolvidos e organizados por trilha.
+---
 
-/tests/ – Casos de teste utilizados para validação das soluções.
+## Estrutura do Repositório  
 
-/notes/ – Observações técnicas e anotações complementares sobre cada desafio.
+- **/java/** – Exercícios resolvidos e organizados por trilha.  
+- **/tests/** – Casos de teste utilizados para validação das soluções.  
+- **/notes/** – Observações técnicas e anotações complementares sobre cada desafio.  
 
-Objetivos Técnicos
+---
 
-Aplicar princípios de Clean Code e SOLID.
+## Objetivos Técnicos  
 
-Desenvolver raciocínio lógico e clareza expressiva no código.
+- Aplicar princípios de **Clean Code** e **SOLID**.  
+- Desenvolver **clareza expressiva** e **raciocínio lógico estruturado** no código.  
+- Praticar **resolução de problemas** com foco em legibilidade, eficiência e consistência.  
+- Manter um **histórico de evolução técnica** como referência profissional e acadêmica.  
 
-Praticar resolução de problemas com foco em legibilidade e eficiência.
+---
 
-Manter histórico de evolução técnica como referência profissional.
+## Tecnologias Utilizadas  
 
-Tecnologias
+- **Java 17+**  
+- **JUnit 5**  
+- **Exercism CLI**  
 
-Java 17+
+---
 
-JUnit 5
+## Sobre o Projeto  
 
-Exercism CLI
+Este repositório reflete uma abordagem **disciplinada e profissional de aprimoramento contínuo**.  
+Cada exercício é elaborado com atenção à **clareza semântica**, **design de software sustentável** e  
+**qualidade de código**.  
 
-Sobre o Projeto
+O resultado é uma base sólida para evolução técnica, documentação de aprendizado e demonstração de  
+maturidade em desenvolvimento backend.  
 
-Este repositório reflete uma abordagem profissional de estudo e aperfeiçoamento contínuo.
-Cada exercício é tratado como uma oportunidade de consolidar fundamentos de design de software, boas práticas de codificação e pensamento analítico aplicado ao desenvolvimento backend.
-
-Para mais informações sobre a plataforma, acesse: https://exercism.org/
+Para conhecer a plataforma e seus desafios, acesse:  
+[https://exercism.org/](https://exercism.org/)
